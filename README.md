@@ -15,6 +15,14 @@
 This dataset contains transactional and customer data from an e-commerce business. 
 It provides insights into customer behavior, product sales, and revenue trends. The dataset can be used for various business analytics, including customer segmentation, sales forecasting, and market basket analysis.
 
+![Online](https://github.com/user-attachments/assets/23deea70-065a-48e6-aa46-5987ee56b486)
+
+![Viz go](https://github.com/user-attachments/assets/ea7f8d6c-3526-452f-a50e-3e4bab257a1f)
+
+![viz 3](https://github.com/user-attachments/assets/c4eee972-a515-415e-be03-cad2e32cfb36)
+
+
+
 ## Data Cleaning
 1. Data cleaning and inspection
 2. Handling duplicate and missing values inspection
